@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|c:\\users\\gacor\\onedrive\\documentos gabo\\progra 5\\proyectomovil\\backend\\modelos\\response\\rescarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|solutionrelative:modelos\\response\\rescarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|c:\\users\\gacor\\onedrive\\documentos gabo\\progra 5\\proyectomovil\\backend\\modelos\\response\\rescategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|solutionrelative:modelos\\response\\rescategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\modelos\\request\\reqcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|solutionrelative:modelos\\request\\reqcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\modelos\\entidades\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|solutionrelative:modelos\\entidades\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\modelos\\entidades\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|solutionrelative:modelos\\entidades\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\logica\\logdetallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|solutionrelative:logica\\logdetallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\modelos\\response\\resdetallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|solutionrelative:modelos\\response\\resdetallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\modelos\\request\\reqdetallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|solutionrelative:modelos\\request\\reqdetallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\modelos\\response\\respedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|solutionrelative:modelos\\response\\respedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\modelos\\request\\reqpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|solutionrelative:modelos\\request\\reqpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\logica\\logpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4807B880-53DD-4FAF-B7CB-92FA964C5FA8}|Backend.csproj|solutionrelative:logica\\logpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1088,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResCarrito.cs",
+              "DocumentMoniker": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Response\\ResCarrito.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResCarrito.cs",
+              "ToolTip": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Response\\ResCarrito.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResCarrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T23:22:39.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Response\\ResCategoria.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResCategoria.cs",
+              "ToolTip": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Response\\ResCategoria.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:21:53.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReqCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Request\\ReqCategoria.cs",
+              "RelativeDocumentMoniker": "Modelos\\Request\\ReqCategoria.cs",
+              "ToolTip": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Request\\ReqCategoria.cs",
+              "RelativeToolTip": "Modelos\\Request\\ReqCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:21:17.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogDetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Logica\\LogDetallePedido.cs",
+              "RelativeDocumentMoniker": "Logica\\LogDetallePedido.cs",
+              "ToolTip": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Logica\\LogDetallePedido.cs",
+              "RelativeToolTip": "Logica\\LogDetallePedido.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwEkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:28:52.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResDetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Response\\ResDetallePedido.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResDetallePedido.cs",
+              "ToolTip": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Response\\ResDetallePedido.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResDetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:17:02.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReqDetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Request\\ReqDetallePedido.cs",
+              "RelativeDocumentMoniker": "Modelos\\Request\\ReqDetallePedido.cs",
+              "ToolTip": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Request\\ReqDetallePedido.cs",
+              "RelativeToolTip": "Modelos\\Request\\ReqDetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:16:16.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Entidades\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Entidades\\DetallePedido.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\DetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:12:08.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResPedido.cs",
+              "DocumentMoniker": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Response\\ResPedido.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResPedido.cs",
+              "ToolTip": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Response\\ResPedido.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:03:16.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReqPedido.cs",
+              "DocumentMoniker": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Request\\ReqPedido.cs",
+              "RelativeDocumentMoniker": "Modelos\\Request\\ReqPedido.cs",
+              "ToolTip": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Request\\ReqPedido.cs",
+              "RelativeToolTip": "Modelos\\Request\\ReqPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:02:50.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Entidades\\Pedido.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Pedido.cs",
+              "ToolTip": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Modelos\\Entidades\\Pedido.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Pedido.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:01:06.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogPedido.cs",
+              "DocumentMoniker": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Logica\\LogPedido.cs",
+              "RelativeDocumentMoniker": "Logica\\LogPedido.cs",
+              "ToolTip": "C:\\Users\\gacor\\OneDrive\\Documentos Gabo\\Progra 5\\ProyectoMovil\\Backend\\Logica\\LogPedido.cs",
+              "RelativeToolTip": "Logica\\LogPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:44:28.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

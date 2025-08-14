@@ -1,0 +1,7 @@
+C:\Users\gacor\OneDrive\Documentos Gabo\Progra 5\ProyectoMovil\Backend\bin\Debug\Backend.dll.config
+C:\Users\gacor\OneDrive\Documentos Gabo\Progra 5\ProyectoMovil\Backend\bin\Debug\Backend.dll
+C:\Users\gacor\OneDrive\Documentos Gabo\Progra 5\ProyectoMovil\Backend\bin\Debug\Backend.pdb
+C:\Users\gacor\OneDrive\Documentos Gabo\Progra 5\ProyectoMovil\Backend\obj\Debug\Backend.csproj.AssemblyReference.cache
+C:\Users\gacor\OneDrive\Documentos Gabo\Progra 5\ProyectoMovil\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+C:\Users\gacor\OneDrive\Documentos Gabo\Progra 5\ProyectoMovil\Backend\obj\Debug\Backend.dll
+C:\Users\gacor\OneDrive\Documentos Gabo\Progra 5\ProyectoMovil\Backend\obj\Debug\Backend.pdb
