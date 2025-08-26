@@ -58,7 +58,7 @@ namespace Backend.Modelos.Extras
                 client.Port = 587;
                 client.EnableSsl = true;
                 client.UseDefaultCredentials = false;
-                client.Credentials = new NetworkCredential(desde, "povmjphfhwvtruzy");
+                client.Credentials = new NetworkCredential(desde, "your credential here");
 
 
 
@@ -80,3 +80,4 @@ namespace Backend.Modelos.Extras
 
     }
 }
+
