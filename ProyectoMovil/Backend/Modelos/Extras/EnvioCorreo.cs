@@ -55,7 +55,7 @@ namespace Backend.Modelos.Extras
                 mail.BodyEncoding = Encoding.UTF8;
 
                 SmtpClient client = new SmtpClient("smtp.gmail.com");
-                client.Port = 587;
+                client.Port = "your port";
                 client.EnableSsl = true;
                 client.UseDefaultCredentials = false;
                 client.Credentials = new NetworkCredential(desde, "your credential here");
@@ -80,4 +80,5 @@ namespace Backend.Modelos.Extras
 
     }
 }
+
 
